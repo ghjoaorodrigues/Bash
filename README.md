@@ -20,5 +20,5 @@ This repository logs what I’ve learned and serves as a personal reference.
 |------------------------|-----------------------------------------|----------------------------------------------------------------------|
 | Shell00     | Basic shell operations and commands     | [Link](https://github.com/42-joaorodrigues/Shell00) |
 | Shell01     | Scripting, variables, redirections      | [Link](https://github.com/ghjoaorodrigues/42-joaorodrigues/Shell00) |
-| Minishell   | Linux system setup using Bash scripts   | [Link](https://github.com/42-joaorodrigues/Born2beroot) |
-| Born2beroot | Building a shell in C, Bash concepts    | [Link](https://github.com/42-joaorodrigues/Minishell) |
+| Born2beroot   | Linux system setup using Bash scripts   | [Link](https://github.com/42-joaorodrigues/Born2beroot) |
+| Minishell | Building a shell in C, Bash concepts    | [Link](https://github.com/42-joaorodrigues/Minishell) |
