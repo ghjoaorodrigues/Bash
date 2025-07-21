@@ -2,18 +2,23 @@
 
 > A personal journey through learning and mastering the Bash shell.
 
-## How I Got Here
+---
 
-I was introduced to Bash during the first week of the 42 Piscine. At the time, I had almost no understanding of the shell, but working on the Shell00 and Shell01 projects gave me my first taste of command-line power: learning basic commands, file manipulation, permissions, scripting, and redirections.
+## Background
 
-As I progressed through the 42 curriculum, Bash became a natural part of my workflow—whether for automating things with simple scripts or understanding how terminals process commands. That foundation became even more important when I started working on **Minishell**, a C-based project where we build our own shell from scratch. Even though it's written in C, Minishell deepened my understanding of how Bash works under the hood: parsing, redirections, pipes, subshells, environment variables, and signal handling.
+I started learning Bash during the first week of the 42 Piscine with Shell00 and Shell01. These projects gave me my first exposure to command-line tools, scripting, redirections, and file permissions.
 
-This repository documents what I’ve learned, and serves both as a log of progress and a reference I can revisit.
+As I advanced, Bash became essential to my workflow — especially while working on Minishell, where I implemented a shell in C and had to understand Bash behavior deeply. Born2beroot also reinforced this by requiring Bash automation for system setup and user management.
+
+This repository logs what I’ve learned and serves as a personal reference.
+
+---
 
 ## Projects
 
-| Project                | Description                             | Link                                                                 |
+| Project                | Description                             | Repository                                                                 |
 |------------------------|-----------------------------------------|----------------------------------------------------------------------|
-| 42-C_Piscine-Shell00   | Basic shell operations and commands     | [Shell00 Repository](https://github.com/ghjoaorodrigues/42-C_Piscine-Shell00) |
-| 42-C_Piscine-Shell01   | Scripting, variables, redirections      | [Shell01 Repository](https://github.com/ghjoaorodrigues/42-C_Piscine-Shell01) |
-| 42-minishell           | Building a shell in C, Bash concepts    | [Minishell Repository](https://github.com/ghjoaorodrigues/42-minishell) |
+| Shell00     | Basic shell operations and commands     | [Link](https://github.com/42-joaorodrigues/Shell00) |
+| Shell01     | Scripting, variables, redirections      | [Link](https://github.com/ghjoaorodrigues/42-joaorodrigues/Shell00) |
+| Minishell   | Linux system setup using Bash scripts   | [Link](https://github.com/42-joaorodrigues/Born2beroot) |
+| Born2beroot | Building a shell in C, Bash concepts    | [Link](https://github.com/42-joaorodrigues/Minishell) |
